@@ -56,7 +56,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any inquiries or issues, please contact [your email or contact information].
+For any inquiries or issues, please contact niteshranjankar5@gmail.com.
 
 ---
 
