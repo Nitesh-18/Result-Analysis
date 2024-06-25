@@ -24,7 +24,7 @@ This program provides an analysis of the results obtained in a unit test exam ac
 ## Requirements
 
 - Ensure you have the necessary dependencies installed.
-- The program is compatible with [mention any specific operating systems or environments if applicable].
+- The program is compatible with JupiterLab, GoogleCollab.
 
 ## Installation
 
